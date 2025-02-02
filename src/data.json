@@ -1,0 +1,110 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "image": "./assets/Images/Project/school.png",
+      "title": "School Landing Website",
+      "desc": " Interactive, information website showcasing school's features, programs,and community.",
+      "category": "website",
+      "date": "December 2023",
+      "code": "https://github.com/monikakumari771/school-website",
+      "live": "https://monikakumari771.github.io/school-website/"
+    },
+    {
+      "id": "2",
+      "image": "./assets/Images/Project/homecakebake.jpg",
+      "title": " Bakery Landing Website",
+      "desc": " Website boasts an intuitive and user-friendly interface, ensuring an effortless and enjoyable browsing experience.",
+      "category": "website",
+      "date": "November 2023",
+      "code": "#",
+      "live": "https://homecakeandbake.com/"
+    },
+    {
+      "id": "3",
+      "image": "./assets/Images/Project/techies.png",
+      "title": " Privacy Policy Page",
+
+      "desc": " A Privacy Policy landing website  ia a legal document outline data handling practices transparently.",
+
+      "category": "website",
+      "date": "September 2023",
+      "code": "#",
+      "live": "https://techiesgateway.com/#/PrivacyPolicy"
+    },
+    {
+      "id": "4",
+      "image": "./assets/Images/Project/teachers.png",
+      "title": " MCA Dept. Teacher",
+      "desc": "Engage students, share some skills, communication and achievements.",
+      "category": "website",
+      "date": "September 2023",
+      "code": "#",
+      "live": "https://www.vbu.ac.in/mca"
+    },
+    {
+      "id": "5",
+      "image": "./assets/Images/Project/car.png",
+      "title": " Car Racing ",
+      "desc": " Car racing websites used some tools of html, css, javascript.",
+      "category": "website",
+      "date": "July 2023",
+      "code": "https://github.com/monikakumari771/car-racing",
+      "live": "https://monika-car-racing.netlify.app/"
+    },
+    {
+      "id": "6",
+      "image": "./assets/Images/monika-raj.png",
+      "title": " My Portfolio",
+      "desc": "This is our Portfolio website made using React.Js",
+
+      "category": "website",
+      "date": "April 2023",
+      "code": "https://github.com/monikakumari771/portfolio",
+      "live": "https://monika-portfolio-app.netlify.app/"
+    },
+    {
+      "id": "7",
+      "image": "./assets/Images/Project/pranapp.png",
+      "title": " PRAN Edu. Web",
+      "desc": "This is a complete student based website for K.B.W students. Students can access notes, pyq, ebooks etc.",
+      "category": "website",
+      "date": "April 2023",
+      "code": "https://github.com/monikakumari771/Pran-register",
+      "live": "https://pran-register.netlify.app/"
+    },
+    {
+      "id": "8",
+      "image": "./assets/Images/Project/tic.png",
+      "title": "Tic Toe Game",
+
+      "desc": "Tic Toe Game is interactive Game and in this game used many tools like that html, css, javascript.",
+
+      "category": "website",
+      "date": "january 2023",
+      "code": "https://github.com/monikakumari771/Tic-Tac-Toe-Game-",
+      "live": "https://monikakumari771.github.io/Tic-Tac-Toe-Game-/"
+    },
+    {
+      "id": "9",
+      "image": "./assets/Images/Project/calculatorapp.png",
+      "title": " Calculator App",
+
+      "desc": " Calculator App is used to calculate some specific values.",
+      "category": "website",
+      "date": "November 2023",
+      "code": "https://github.com/monikakumari771/Calculator-App",
+      "live": "https://monika-calculator-app.netlify.app/"
+    },
+    {
+      "id": "10",
+      "image": "./assets/Images/Project/watch.png",
+      "title": "Digital Watch",
+      "desc": " This is an simple module of Digital watch.",
+      "category": "website",
+      "date": "April 2023",
+      "code": "https://github.com/monikakumari771/Analog-Clock",
+      "live": "https://monika-analog-clock.netlify.app/"
+    }
+  ]
+}
