@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/monikakumari771/",
+  "homepage": "https://github.com/monikakumari771/our-portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
