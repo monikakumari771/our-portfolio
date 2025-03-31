@@ -91,47 +91,57 @@ function Resume() {
             <h2>Experience</h2>
             <div className="educ-box" div data-aos="fade-up">
               <div className="educ-matrix">
-                <h3>Frontend-Developer</h3>
+                <h3> Junior Frontend-Developer</h3>
               </div>
               <div className="cbse">
-                <span className="color-box">2 year</span>
+                <span className="color-box">
+                  Efficientem Engineering Pvt.Ltd
+                </span>
 
-                <span>REACT JS</span>
+                <span>REACT </span>
               </div>
               <div className="icons">
                 <div className="react-icon">
                   <RxThickArrowRight />
-                  <p>2 year as Freelance Frontend Developer</p>
+                  <p>3 year as Freelance Frontend Developer</p>
                 </div>
               </div>
               <div className="para">
                 <RxThickArrowRight />
 
                 <p>
-                  I have done several projects as individual and collaborative
-                  based on React js.
+                  <RxThickArrowRight />
+                  Frontend Development – Building responsive and dynamic UIs
+                  with React.js. <br />
+                  Mobile Development – Creating cross-platform apps using React
+                  Native. <br />
                 </p>
               </div>
             </div>
             <div className="educ-box" div data-aos="fade-up">
               <div className="educ-matrix">
-                <h3>Open Source Contribution</h3>
+                <h3>Web Developer</h3>
               </div>
               <div className="cbse">
-                <span className="color-box">2 month</span>
+                <span className="color-box">
+                  Intership At Tprosysit IT OPC Pvt Ltd
+                </span>
 
-                <span>SSOC</span>
+                <span>REACT JS</span>
               </div>
               <div className="icons">
                 <div className="react-icon">
                   <RxThickArrowRight />
-                  <p>Successfully merged several branch on github</p>
+                  <p>
+                    Working for Government Project i.e Uttar Pradesh Metro
+                    Railway Corporation
+                  </p>
                 </div>
               </div>
               <div className="para">
                 <RxThickArrowRight />
 
-                <p>Still working as Open Source Contributer</p>
+                <p>Used React Redux ,various Component and materials ui</p>
               </div>
             </div>
 

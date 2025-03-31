@@ -42,16 +42,18 @@ function Hero() {
                 repeat={Infinity}
               />
               <p className="para">
-                Im a WebDeveloper with learing experience of 2 year. Currently
-                pursing BCA from Vinoba Bhave University. I am very passionate
-                about improving my coding skill & developing website and
-                applications.
+                Im a WebDeveloper with learing experience of 3 year. Creative
+                and detail-oriented Frontend Web Developer with expertise in
+                React, JavaScript, HTML, and CSS. Skilled in building
+                responsive, user-friendly interfaces. Seeking to contribute
+                technical and creative skills to deliver web solutions for
+                business.
                 <br />
                 <br />
                 Working for myself to imporve my skills.
               </p>
               <div className="hero-secbutton">
-                <Link to="https://drive.google.com/file/d/1Ph8MwEXgNpJnL6eJ2wdBOGBtV5GlbwHY/view?usp=sharing">
+                <Link to="https://drive.google.com/file/d/1OCFj3LySpDDndt-hHGxww5hOObVCfkux/view?usp=sharing">
                   <button className="btn1">
                     <span>Download CV</span>
                   </button>

@@ -36,12 +36,15 @@ function Technology() {
           </div>
           <div className="tech-cont">
             <div className="tech-sec">
-              <img
-                className="img"
-                src="./assets/Images/skillsLogo/csharp.svg"
-              />
+              <img className="img" src="./assets/Images/skillsLogo/react.svg" />
             </div>
-            <h2>C#</h2>
+            <h2>React Native</h2>
+          </div>
+          <div className="tech-cont">
+            <div className="tech-sec">
+              <img className="img" src="./assets/Images/typescript.svg" />
+            </div>
+            <h2>Typescript</h2>
           </div>
           <div className="tech-cont">
             <div className="tech-sec">
@@ -99,6 +102,12 @@ function Technology() {
               <img className="img" src="./assets/Images/skillsLogo/Sass.svg" />
             </div>
             <h2>Sass</h2>
+          </div>
+          <div className="tech-cont">
+            <div className="tech-sec">
+              <img className="img" src="./assets/Images/tailwind.png" />
+            </div>
+            <h2>Taildwind Css</h2>
           </div>
           <div className="tech-cont">
             <div className="tech-sec">

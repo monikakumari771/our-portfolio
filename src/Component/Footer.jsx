@@ -71,7 +71,7 @@ function Footer() {
             <h3>Monika kumari</h3>
             <p>
               <FaCopyright size={15} />
-              Copyright 2024 by Monika. All Right Reserved
+              Copyright {new Date().getFullYear()} by Monika. All Right Reserved
             </p>
           </div>
           <div className="right">
